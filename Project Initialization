@@ -1,0 +1,39 @@
+Project setup and initial repository structure
+
+- Created project directory structure
+- Added virtual environment configuration
+- Added requirements.txt
+- Created initial Flask application
+- Added README with project overview
+Dataset analysis
+
+- Imported customer churn dataset
+- Reviewed feature descriptions
+- Identified missing values
+- Examined target variable distribution
+- Documented initial observations
+Preprocessing pipeline
+
+- Removed duplicate records
+- Handled missing values
+- Encoded categorical features
+- Converted data types
+- Prepared dataset for model training
+EDA improvements
+
+- Generated summary statistics
+- Analyzed churn distribution
+- Studied numerical feature trends
+- Documented key business insights
+Machine learning baseline
+
+- Split training and testing datasets
+- Trained Logistic Regression model
+- Evaluated model performance
+- Saved evaluation metrics
+Project documentation
+
+- Expanded project overview
+- Added setup instructions
+- Documented dataset schema
+- Added development roadmap
